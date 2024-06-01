@@ -2,7 +2,7 @@ function setup() {
   let p =createCanvas(465, 465);
  background("#7DC8F8 ");
  stroke("white");
-p.position(525,720)
+p.position(525,730)
 
 }
 
