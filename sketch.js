@@ -1,8 +1,8 @@
 function setup() {
   let p =createCanvas(465, 465);
- background("#E75480");
+ background("#7DC8F8 ");
  stroke("white");
-p.position(1030,120)
+p.position(525,750)
 
 }
 
