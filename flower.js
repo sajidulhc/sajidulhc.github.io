@@ -7,7 +7,7 @@ var bgcolor = (100, 100, 100);
 
 function setup() {
  let p =createCanvas(600, 600);
-p.position(2230,200)
+p.position(530,200)
 }
   
 
